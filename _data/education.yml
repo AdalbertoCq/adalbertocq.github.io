@@ -1,0 +1,23 @@
+# Education Template
+- layout: top-middle
+  name: "Illinois Institute of Technology"
+  dates: "Chicago, IL, USA"
+  qualification: "Master of Science in Electrical Engineering - 3.53/4"
+  # quote: >
+  # description: | # this will include new lines to allow paragraphs
+  #   - Analysis Random Signals. Grade: A. 
+  #   - Advanced Computer Architecture. Grade: A.
+  #   - Computer Vision Image Processing. Grade: B. 
+  #   - Embedded Digital Systems. Grade: A
+
+- layout: top-middle
+  name: "Polytechnic University of Madrid, ESTIT-UPM "
+  dates: "Madrid, Spain"
+  qualification: "Master & Bachelor of Science in Telecommunications Engineering - 7.23/10"
+  # quote: >
+  # description: | # this will include new lines to allow paragraphs
+  #   - Probability and Random Variables. Grade 10/10. 
+  #   - Electromagnetic Fields. Grade 7.5/10. 
+  #   - Differential Equations. Grade 8/10.
+  #   - Digital Signal Processing. Grade 9.1/10. 
+  #   - Microwaves. Grade: 8.4/10

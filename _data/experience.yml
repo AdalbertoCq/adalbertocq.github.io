@@ -1,0 +1,39 @@
+# Experience template
+- layout: left
+  company: "Intel Corporation"
+  link: "San Jose, CA, USA"
+  job_title: "Senior SoC Design Engineer - Fabric Performance Leadership Team"
+  dates: "April 2017 – September 2018"
+  description: | # this will include new lines to allow paragraphs
+    I worked in the Fabric Performance Leadership team, our goal was to analyze the [Stratix 10](https://www.intel.com/content/www/us/en/products/programmable/fpga/stratix-10.html) FPGA design from the hardware and software perspective to find flaws and push the FPGA frequency performance 
+    forward. 
+
+    During this period, a few of the most important achievements were:
+      - A Python graph builder tool that generates a graph of the FPGA's routing structure, prunes it and creates a visualization from an register-transfer level netlist design.
+      - Implementated a device End-of-Life (EOL) methodology tool that obtained the aging degradation delay on FPGA's transistors.
+      - Analyzed logical and physical implementation of Adders: From the FPGA software, integrated circuit design and architecture perspective. The result of this study was a redesign of the adder's implementation leading to a 70% improvement on frequency performance for adders.
+
+
+- layout: left
+  company: "Altera Coporation/Intel Corporation"
+  link: "San Jose, CA, USA"
+  job_title: "Senior SoC Design Engineer - Full Chip Timing Team"
+  dates: "June 2014 – April 2017"
+  # quote: >
+   # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Worked in the Full Chip Timing team on [Static Timing Analysis](https://en.wikipedia.org/wiki/Static_timing_analysis), first to verify the hardware FPGA designs running at the frequency specifications, and secondly to correlate the FPGA software models with the hardware designs and silicon devices.
+    - Developed a [Stratix 10](https://www.intel.com/content/www/us/en/products/programmable/fpga/stratix-10.html) full chip timing violation tool: This tool gathers all full chip timing violations due to maximum transition (~100K instances), cross reference each violation to a lower system blocks, and compiles them for each block designer.
+    - [Arria 10](https://www.intel.com/content/www/us/en/products/programmable/fpga/arria-10.html) Frequency binning and register to register timing correlation lead: Silicon/[Quartus-FPGA-SW](https://en.wikipedia.org/wiki/Intel_Quartus_Prime)/HSPICE model frequency correlation, given an internal Altera Quality Award in 2015 Q2.
+    - Developed a timing tool in Python, HSPICE, and [Quartus FPGA Software](https://en.wikipedia.org/wiki/Intel_Quartus_Prime) significantly impacting the process: Increasing the number of data points from 10 to 7K, with different features including Power-Voltage-Temperature (PVT), voltage threshold and sheet resistance sweeping options.
+
+
+- layout: left
+  company: "Channel IQ - Currently Market Track"
+  link: "Chicago IL, USA"
+  job_title: "Data Acquistion Engineer"
+  dates: "August 2013 – June 2014"
+  # quote: >
+   # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Worked developing bots for web data scraping, additionally I help in maintaining and developing improvements on middle tier code and servers, which controled the bots and jobs executions. Most of this work was done in SQL, C#, Python, C++.

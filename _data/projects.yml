@@ -1,0 +1,54 @@
+
+## Preprints
+- layout: top-middle
+  name: "Preprints"
+
+# Project template
+- layout: top-middle
+  name: "'Pathology GAN: Learning deep representations of cancer tissue' Adalberto Claudio Quiros, Roderick Murray-Smith, Ke Yuan. 2019."
+  link: https://arxiv.org/abs/1907.02644
+  github: AdalbertoCq/Pathology-GAN
+  # quote: >
+    # Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs {: width="180" height="180"}
+    ![tran](./images/linear_grid.gif){: width="180" height="180" style="float:left; padding:16px"} We apply Generative Adversarial Networks (GANs) to the domain of digital pathology. Current machine learning research for digital pathology focuses on diagnosis, 
+    but we suggest a different approach and advocate that generative models could help to understand and find fundamental morphological characteristics of cancer tissue. 
+    In this paper, we develop a framework which allows GANs to capture key tissue features, and present a vision of how these could link cancer tissue and DNA in the future. 
+    To this end, we trained our model on breast cancer tissue from a medium size cohort of 526 patients, producing high fidelity images. We further study how a range of relevant 
+    GAN evaluation metrics perform on this task, and propose to evaluate synthetic images with clinically/pathologically meaningful features. Our results show that these models are 
+    able to capture key morphological characteristics that link with phenotype, such as survival time and Estrogen-receptor (ER) status. Using an Inception-V1 network as feature extraction, 
+    our models achieve a Frechet Inception Distance (FID) of 18.4. We find that using pathology meaningful features on these metrics show consistent performance, with a FID of 8.21. 
+    Furthermore, we asked two expert50athologists to distinguish our generated images from real ones, finding no significant difference between them.
+
+    ![hand](./images/hand_picked_grid_paper.png){: width="60%" height="60%" style="display: block; margin: 0 auto"}
+
+- layout: top-middle
+  name: "Publications"
+
+# Project template
+- layout: top-middle
+  name: "'DNNLibGen : Deep Neural Network Based Fast Library Generator' Eunice Naswali, Adalberto Claudio Quiros, Pravin Chandran. 2019."
+  # link: https://arxiv.org/abs/1907.02644
+  # github: AdalbertoCq/Pathology-GAN
+  quote: >
+    26th IEEE International Conference on Electronics Circuits and Systems
+  description: | # this will include new lines to allow paragraphs
+    ![tran](./images/DNNLibGen.png){: width="35%" height="35%" style="float:left; padding:16px"} We propose a new modeling methodology using deep learning techniques for generating timing 
+    models for Static Timing Analysis (STA). Current device behavior is non-linear, non-monotonic and exhibits high sensitivity to (Process Voltage Temperature) PVT variation which imposes a 
+    myriad of design challenges including the need for analysis at several PVT corners. While complete PVT coverage is crucial for detecting design issues early and achieving time-to-market goals 
+    with improved predictability, the number of PVT corners are growing exponentially and library generation has also become a significant bottleneck in current design cycles. To this end, we have 
+    developed a novel methodology for timing library generation that uses data from sparse characterization in PVT space and generates delay models at required sign-off corners. 
+    We have employed deep neural nets with residual connections for delay modeling and our methodology enables a 'single model' to fully comprehend multiple cell types, PVT corners 
+    and generate required PVT timing libraries. The proposed library-generator uses a novel inter-corner model to generate delay tables at 17 test corners using 7 corners as reference. 
+    In addition, we have developed an intra-corner model, to generate dense 8x8 delay tables using delays from 10 slew/load points as reference. The results show that, using these models, 
+    we are able to achieve key improvements with over 98.7% of calculated delays within acceptable tolerance while reducing characterization run-time for early milestones by up to 60%.
+
+    ![hand](./images/1output_allcorners_paper.png){: width="40%" height="40%" style="display: block; margin: 0 auto"}
+
+## Misc.
+- layout: top-middle
+  name: "Miscellaneous"
+  description: | # this will include new lines to allow paragraphs
+    - **Januray, 2020:** Wrote a [tutorial document (Draft)](https://github.com/AdalbertoCq/Dirichlet_Processes/Dirichlet_processes.pdf) and [code](https://github.com/AdalbertoCq/Dirichlet_processes) implementations of related concepts to Dirichlet Processes: GEM distribution, Polya Urn, Chinese restaurant process, Stick-Breaking construction, DP Posterior, and DP Mixture Models.
+    - **October - December, 2020:** Worked as a teaching assistant and gave two classes at the 'Machine Learning for Data Scientists' course of [MSc in Data Science](https://www.gla.ac.uk/postgraduate/taught/datascience/), briefly introducing Sampling methods and Variational Inference: [Sampling slides](https://drive.google.com/open?id=1RpEKhNfdujGOCsChF_p8-hs4uOYe_ux8U5Vra51B-cc), [MCMC Bayesian Linear regression example](https://drive.google.com/open?id=1kmT8FcS9XA0ajrjfWpAYYVwW60FNCzvF), [Variational Inference slides](https://drive.google.com/open?id=1oQzbEjyt-FJIU5v3sl6MH8ghuhbuB5a_Lfjj4TP_UZ0), and [VI Bayesian Linear regression example](https://drive.google.com/open?id=1NnnIwnpcM71THvqJgr2lJ84Ii4_jg563)
+    - **March, 2019:** Wrote a brief survey on GANs: [slides](https://github.com/AdalbertoCq/GANs-Slides-Code-Paper/blob/master/slides/GANs_Slides.pdf) and [code](https://github.com/AdalbertoCq/GANs-Slides-Code-Paper) for relevant models.
