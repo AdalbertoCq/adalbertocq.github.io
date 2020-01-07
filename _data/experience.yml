@@ -12,7 +12,7 @@
       - A Python graph builder tool that generates a graph of the FPGA's routing structure, prunes it and creates a visualization from an register-transfer level netlist design.
       - Implementated a device End-of-Life (EOL) methodology tool that obtained the aging degradation delay on FPGA's transistors.
       - Analyzed logical and physical implementation of Adders: From the FPGA software, integrated circuit design and architecture perspective. The result of this study was a redesign of the adder's implementation leading to a 70% improvement on frequency performance for adders.
-
+      - Publish 'DNNLibGen : Deep Neural Network Based Fast Library Generator' Eunice Naswali, Adalberto Claudio Quiros, Pravin Chandran.
 
 - layout: left
   company: "Altera Coporation/Intel Corporation"
