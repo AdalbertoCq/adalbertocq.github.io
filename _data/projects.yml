@@ -18,7 +18,7 @@
     GAN evaluation metrics perform on this task, and propose to evaluate synthetic images with clinically/pathologically meaningful features. Our results show that these models are 
     able to capture key morphological characteristics that link with phenotype, such as survival time and Estrogen-receptor (ER) status. Using an Inception-V1 network as feature extraction, 
     our models achieve a Frechet Inception Distance (FID) of 18.4. We find that using pathology meaningful features on these metrics show consistent performance, with a FID of 8.21. 
-    Furthermore, we asked two expert50athologists to distinguish our generated images from real ones, finding no significant difference between them.
+    Furthermore, we asked two expert pathologists to distinguish our generated images from real ones, finding no significant difference between them.
 
     ![hand](./images/hand_picked_grid_paper.png){: width="60%" height="60%" style="display: block; margin: 0 auto"}
 
