@@ -35,7 +35,18 @@
             <a target="_blank" href="https://twitter.com/Adalberto_Cq" class="button button--sacnite button--round-l">
               <i class="fab fa-twitter" title="Twitter link"></i>
             </a>
+          </li><li>
+            <a target="_blank" href="https://orcid.org/0000-0003-4804-0741" class="button button--sacnite button--round-l">
+              <i class="fab fa-orcid" title="ORCiD link"></i>
+            </a>
           </li>
+          <li>
+            
+<a href="https://drive.google.com/open?id=15sr1J3nWyIJ3eEfmluncrStvmRB7M6T4" target="_blank" class="button button--sacnite button--round-l">
+              <i class="fab far fa-file" title="Curriculum Vitae"></i>
+            </a>
+          </li>
+        
       </ul><p>
           Email: <a href="mailto:a.claudio-quiros.1@research.gla.ac.uk" target="_blank">a.claudio-quiros.1@research.gla.ac.uk</a>
         </p></div>
@@ -49,7 +60,9 @@
       </div><div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
       <p>I’m a second year PhD student advised by <a href="https://scholar.google.co.uk/citations?user=PIQ_ZhUAAAAJ&amp;hl=en">Ke Yuan</a> and <a href="https://scholar.google.com/citations?user=laX7LzQAAAAJ&amp;hl=en">Roderick Murray-Smith</a> at the Univeristy of Glasgow, Computing Science department.</p>
 
-<p>I’m interested in generative models, Bayesian nonparametrics, representation learning and interpretability of latent variable models. Additionally, my current research focuses on applying generative models to histopathology and how these can help to better understand cancer tissue.</p>
+<p>I’m interested in generative models, Bayesian nonparametrics, representation learning and interpretability of latent variable models. Additionally, my current research focuses on applying generative models to histopathology and how these models can help to better understand cancer tissue.</p>
+
+<p>On the personal level, I’m interested in U.S. and E.U politics, and their overlap with machine learning.</p>
 
 <p>Before starting the PhD, I worked in the semiconductor industry as a SoC Design engineer in the <a href="https://en.wikipedia.org/wiki/Field-programmable_gate_array">FPGA</a> field at Altera Coporation and Intel Corporation in San Jose, CA. I received a MSc in Electrical Engineering at the IIT in Chicago, and MSc and BSc in Telecommunications Engineering at ETSIT-UPM in Madrid.</p>
 
@@ -74,16 +87,9 @@
           <i class="fa fa-github" title="'Pathology GAN: Learning deep representations of cancer tissue' Adalberto Claudio Quiros, Roderick Murray-Smith, Ke Yuan. 2019. Github link"></i>
         </a>
       </p></div>
-  <div class="col-xs-12 col-print-12"><p><img src="./images/linear_grid.gif" alt="tran" width="180" height="180" style="float:left; padding:16px" /> We apply Generative Adversarial Networks (GANs) to the domain of digital pathology. Current machine learning research for digital pathology focuses on diagnosis, 
-but we suggest a different approach and advocate that generative models could help to understand and find fundamental morphological characteristics of cancer tissue. 
-In this paper, we develop a framework which allows GANs to capture key tissue features, and present a vision of how these could link cancer tissue and DNA in the future. 
-To this end, we trained our model on breast cancer tissue from a medium size cohort of 526 patients, producing high fidelity images. We further study how a range of relevant 
-GAN evaluation metrics perform on this task, and propose to evaluate synthetic images with clinically/pathologically meaningful features. Our results show that these models are 
-able to capture key morphological characteristics that link with phenotype, such as survival time and Estrogen-receptor (ER) status. Using an Inception-V1 network as feature extraction, 
-our models achieve a Frechet Inception Distance (FID) of 18.4. We find that using pathology meaningful features on these metrics show consistent performance, with a FID of 8.21. 
-Furthermore, we asked two expert50athologists to distinguish our generated images from real ones, finding no significant difference between them.</p>
-
-<p><img src="./images/hand_picked_grid_paper.png" alt="hand" width="60%" height="60%" style="display: block; margin: 0 auto" /></p>
+  <div class="col-xs-12 col-print-12"><p><img src="./images/linear_grid.gif" alt="tran" width="180" height="180" style="float:left; padding:16px" /> <strong>Abstract:</strong> We apply Generative Adversarial Networks (GANs) to the domain of digital pathology. Current machine learning research for digital pathology focuses on diagnosis, but we suggest a different approach and advocate that generative models could drive forward the understanding of morphological characteristics of cancer tissue. In this paper, we develop a framework which allows GANs to capture key tissue features and uses these characteristics to give structure to its latent space. To this end, we trained our model on 249K H&amp;E breast cancer tissue images. 
+We show that our model generates high quality images, with a Frechet Inception Distance (FID) of 16.65. We additionally assess the quality of the images with cancer tissue characteristics (e.g. count of cancer, lymphocytes, or stromal cells), using quantitative information to calculate the FID and showing consistent performance of 9.86. Additionally, the latent space of our model shows an interpretable structure and allows semantic vector operations that translate into tissue feature transformations. Furthermore, ratings from two expert pathologists found no significant difference between our generated tissue images from real ones. 
+<img src="./images/vector_op.png" alt="hand" width="55%" height="55%" style="display: block; margin: 0 auto" /></p>
 
   </div>
 </div>
@@ -98,9 +104,10 @@ Furthermore, we asked two expert50athologists to distinguish our generated image
 
   
     <div class="row clearfix layout layout-top-middle">
-  <div class="col-xs-12 col-print-12 details"><h4>'DNNLibGen : Deep Neural Network Based Fast Library Generator' Eunice Naswali, Adalberto Claudio Quiros, Pravin Chandran. 2019.</h4></div>
+  <div class="col-xs-12 col-print-12 details"><h4>'DNNLibGen : Deep Neural Network Based Fast Library Generator' Eunice Naswali, Adalberto Claudio Quiros, Pravin Chandran. 2019.</h4>
+<a href="https://ieeexplore.ieee.org/document/8965191" target="_blank" class="link">https://ieeexplore.ieee.org/document/8965191</a></div>
   <div class="col-xs-12 col-print-12"><p class="quote">26th IEEE International Conference on Electronics Circuits and Systems
-</p><p><img src="./images/DNNLibGen.png" alt="tran" width="35%" height="35%" style="float:left; padding:16px" /> We propose a new modeling methodology using deep learning techniques for generating timing 
+</p><p><img src="./images/DNNLibGen.png" alt="tran" width="35%" height="35%" style="float:left; padding:16px" /> <strong>Abstract:</strong> We propose a new modeling methodology using deep learning techniques for generating timing 
 models for Static Timing Analysis (STA). Current device behavior is non-linear, non-monotonic and exhibits high sensitivity to (Process Voltage Temperature) PVT variation which imposes a 
 myriad of design challenges including the need for analysis at several PVT corners. While complete PVT coverage is crucial for detecting design issues early and achieving time-to-market goals 
 with improved predictability, the number of PVT corners are growing exponentially and library generation has also become a significant bottleneck in current design cycles. To this end, we have 
@@ -119,8 +126,9 @@ we are able to achieve key improvements with over 98.7% of calculated delays wit
     <div class="row clearfix layout layout-top-middle">
   <div class="col-xs-12 col-print-12 details"><h4>Miscellaneous</h4></div>
   <div class="col-xs-12 col-print-12"><ul>
-  <li><strong>Januray, 2020:</strong> Wrote a <a href="https://github.com/AdalbertoCq/Dirichlet_Processes/Dirichlet_processes.pdf">tutorial document (Draft)</a> and <a href="https://github.com/AdalbertoCq/Dirichlet_processes">code</a> implementations of related concepts to Dirichlet Processes: GEM distribution, Polya Urn, Chinese restaurant process, Stick-Breaking construction, DP Posterior, and DP Mixture Models.</li>
-  <li><strong>October - December, 2020:</strong> Worked as a teaching assistant and gave two classes at the ‘Machine Learning for Data Scientists’ course of <a href="https://www.gla.ac.uk/postgraduate/taught/datascience/">MSc in Data Science</a>, briefly introducing Sampling methods and Variational Inference: <a href="https://drive.google.com/open?id=1RpEKhNfdujGOCsChF_p8-hs4uOYe_ux8U5Vra51B-cc">Sampling slides</a>, <a href="https://drive.google.com/open?id=1kmT8FcS9XA0ajrjfWpAYYVwW60FNCzvF">MCMC Bayesian Linear regression example</a>, <a href="https://drive.google.com/open?id=1oQzbEjyt-FJIU5v3sl6MH8ghuhbuB5a_Lfjj4TP_UZ0">Variational Inference slides</a>, and <a href="https://drive.google.com/open?id=1NnnIwnpcM71THvqJgr2lJ84Ii4_jg563">VI Bayesian Linear regression example</a></li>
+  <li><strong>January, 2020:</strong> Wrote a <a href="https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/Dirichlet_Processes.pdf">tutorial document (Draft)</a> and <a href="https://github.com/AdalbertoCq/Dirichlet_processes">code</a> implementations of related concepts to Dirichlet Processes: GEM distribution, Polya Urn, Chinese restaurant process, Stick-Breaking construction, DP Posterior, and DP Mixture Models.
+<img src="./images/dp_visualization_alpha_100.png" alt="hand" width="30%" height="30%" style="display: block; margin: 0 auto; padding:10px" /></li>
+  <li><strong>October - December, 2020:</strong> Worked as a teaching assistant and gave two lectures at the ‘Machine Learning for Data Scientists’ course of <a href="https://www.gla.ac.uk/postgraduate/taught/datascience/">MSc in Data Science</a>, briefly introducing Sampling methods and Variational Inference: <a href="https://drive.google.com/open?id=1RpEKhNfdujGOCsChF_p8-hs4uOYe_ux8U5Vra51B-cc">Sampling slides</a>, <a href="https://drive.google.com/open?id=1kmT8FcS9XA0ajrjfWpAYYVwW60FNCzvF">MCMC Bayesian Linear regression example</a>, <a href="https://drive.google.com/open?id=1oQzbEjyt-FJIU5v3sl6MH8ghuhbuB5a_Lfjj4TP_UZ0">Variational Inference slides</a>, and <a href="https://drive.google.com/open?id=1NnnIwnpcM71THvqJgr2lJ84Ii4_jg563">VI Bayesian Linear regression example</a></li>
   <li><strong>March, 2019:</strong> Wrote a brief survey on GANs: <a href="https://github.com/AdalbertoCq/GANs-Slides-Code-Paper/blob/master/slides/GANs_Slides.pdf">slides</a> and <a href="https://github.com/AdalbertoCq/GANs-Slides-Code-Paper">code</a> for relevant models.</li>
 </ul>
 
@@ -143,6 +151,7 @@ forward.</p>
   <li>A Python graph builder tool that generates a graph of the FPGA’s routing structure, prunes it and creates a visualization from an register-transfer level netlist design.</li>
   <li>Implementated a device End-of-Life (EOL) methodology tool that obtained the aging degradation delay on FPGA’s transistors.</li>
   <li>Analyzed logical and physical implementation of Adders: From the FPGA software, integrated circuit design and architecture perspective. The result of this study was a redesign of the adder’s implementation leading to a 70% improvement on frequency performance for adders.</li>
+  <li>Published ‘DNNLibGen : Deep Neural Network Based Fast Library Generator’ Eunice Naswali, Adalberto Claudio Quiros, Pravin Chandran.</li>
 </ul>
 
   </div>

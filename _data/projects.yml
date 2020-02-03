@@ -13,7 +13,7 @@
   description: | # this will include new lines to allow paragraphs {: width="180" height="180"}
     ![tran](./images/linear_grid.gif){: width="180" height="180" style="float:left; padding:16px"} **Abstract:** We apply Generative Adversarial Networks (GANs) to the domain of digital pathology. Current machine learning research for digital pathology focuses on diagnosis, but we suggest a different approach and advocate that generative models could drive forward the understanding of morphological characteristics of cancer tissue. In this paper, we develop a framework which allows GANs to capture key tissue features and uses these characteristics to give structure to its latent space. To this end, we trained our model on 249K H&E breast cancer tissue images. 
     We show that our model generates high quality images, with a Frechet Inception Distance (FID) of 16.65. We additionally assess the quality of the images with cancer tissue characteristics (e.g. count of cancer, lymphocytes, or stromal cells), using quantitative information to calculate the FID and showing consistent performance of 9.86. Additionally, the latent space of our model shows an interpretable structure and allows semantic vector operations that translate into tissue feature transformations. Furthermore, ratings from two expert pathologists found no significant difference between our generated tissue images from real ones. 
-    ![hand](./images/vector_op.png){: width="60%" height="60%" style="display: block; margin: 0 auto"}
+    ![hand](./images/vector_op.png){: width="55%" height="55%" style="display: block; margin: 0 auto"}
 
 - layout: top-middle
   name: "Publications"
@@ -22,7 +22,6 @@
 - layout: top-middle
   name: "'DNNLibGen : Deep Neural Network Based Fast Library Generator' Eunice Naswali, Adalberto Claudio Quiros, Pravin Chandran. 2019."
   link: https://ieeexplore.ieee.org/document/8965191
-  # github: AdalbertoCq/Pathology-GAN
   quote: >
     26th IEEE International Conference on Electronics Circuits and Systems
   description: | # this will include new lines to allow paragraphs
@@ -43,5 +42,6 @@
   name: "Miscellaneous"
   description: | # this will include new lines to allow paragraphs
     - **January, 2020:** Wrote a [tutorial document (Draft)](https://github.com/AdalbertoCq/Dirichlet_processes/blob/master/Dirichlet_Processes.pdf) and [code](https://github.com/AdalbertoCq/Dirichlet_processes) implementations of related concepts to Dirichlet Processes: GEM distribution, Polya Urn, Chinese restaurant process, Stick-Breaking construction, DP Posterior, and DP Mixture Models.
+    ![hand](./images/dp_visualization_alpha_100.png){: width="30%" height="30%" style="display: block; margin: 0 auto; padding:10px"}
     - **October - December, 2020:** Worked as a teaching assistant and gave two lectures at the 'Machine Learning for Data Scientists' course of [MSc in Data Science](https://www.gla.ac.uk/postgraduate/taught/datascience/), briefly introducing Sampling methods and Variational Inference: [Sampling slides](https://drive.google.com/open?id=1RpEKhNfdujGOCsChF_p8-hs4uOYe_ux8U5Vra51B-cc), [MCMC Bayesian Linear regression example](https://drive.google.com/open?id=1kmT8FcS9XA0ajrjfWpAYYVwW60FNCzvF), [Variational Inference slides](https://drive.google.com/open?id=1oQzbEjyt-FJIU5v3sl6MH8ghuhbuB5a_Lfjj4TP_UZ0), and [VI Bayesian Linear regression example](https://drive.google.com/open?id=1NnnIwnpcM71THvqJgr2lJ84Ii4_jg563)
     - **March, 2019:** Wrote a brief survey on GANs: [slides](https://github.com/AdalbertoCq/GANs-Slides-Code-Paper/blob/master/slides/GANs_Slides.pdf) and [code](https://github.com/AdalbertoCq/GANs-Slides-Code-Paper) for relevant models.
