@@ -20,7 +20,7 @@
 # Project template
 - layout: top-middle
   name: "'Pathology GAN: Learning deep representations of cancer tissue' Adalberto Claudio Quiros, Roderick Murray-Smith, Ke Yuan. 2020."
-  link: https://openreview.net/forum?id=CwgSEEQkad
+  link: https://openreview.net/forum?id=CwgSEEQkad https://2020.midl.io/papers/quiros20.html
   github: AdalbertoCq/Pathology-GAN
   quote: >
     Proceedings of The 3rd International Conference on Medical Imaging with Deep Learning (MIDL) 2020
