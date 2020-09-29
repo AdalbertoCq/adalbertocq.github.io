@@ -45,7 +45,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Adal.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a second year PhD student advised by [Ke Yuan](https://scholar.google.co.uk/citations?user=PIQ_ZhUAAAAJ&hl=en) and [Roderick Murray-Smith](https://scholar.google.com/citations?user=laX7LzQAAAAJ&hl=en) at the Univeristy of Glasgow, Computing Science department. 
+  I'm a third year PhD student advised by [Ke Yuan](https://scholar.google.co.uk/citations?user=PIQ_ZhUAAAAJ&hl=en) and [Roderick Murray-Smith](https://scholar.google.com/citations?user=laX7LzQAAAAJ&hl=en) at the Univeristy of Glasgow, Computing Science department. 
 
   I'm interested in generative models, causal inference, representation learning and interpretability of latent variable models. Additionally, my current research focuses on applying generative models to histopathology and how these models can help to better understand cancer tissue.
 
