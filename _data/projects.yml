@@ -15,7 +15,7 @@
     We present an adversarial learning model to extract feature representations of cancer tissue, without the need for manual annotations. We show that these representations are able to identify a variety of morphological characteristics across three cancer types: Breast, colon, and lung. This is supported by 1) the separation of morphologic characteristics in the latent space; 2) the ability to classify tissue type with logistic regression using latent representations, with an AUC of 0.97 and 85% accuracy, comparable to supervised deep models; 3) the ability to predict the presence of tumor in Whole Slide Images (WSIs) using multiple instance learning (MIL), achieving an AUC of 0.98 and 94% accuracy.
     Our results show that our model captures distinct phenotypic characteristics of real tissue samples, paving the way for further understanding of tumor progression and tumor micro-environment, and ultimately refining histopathological classification for diagnosis and treatment. 
 
-    ![hand](./images/publications/adversarial-learning-of-cancer-tissue-representations/nki_vgh_nct.png){: width="55%" height="55%" style="display: block; margin: 0 auto"}
+    ![hand](./images/publications/adversarial-learning-of-cancer-tissue-representations/lung_tumor_normal.png){: width="55%" height="55%" style="display: block; margin: 0 auto"}
 
 # Project template https://2020.midl.io/papers/quiros20.html
 - layout: top-middle
