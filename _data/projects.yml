@@ -6,7 +6,7 @@
 # Project template https://2020.midl.io/papers/quiros20.html
 - layout: top-middle
   name: "'Adversarial learning of cancer tissue representations' Adalberto Claudio Quiros, Nicolas Coudray, Anna Yeaton, Wisuwat Sunhem, Roderick Murray-Smith, Aristotelis Tsirigos, and Ke Yuan. 2021."
-  # link: http://proceedings.mlr.press/v121/quiros20a.html 
+  link: http://arxiv.org/abs/2108.02223
   github: AdalbertoCq/Adversarial-learning-of-cancer-tissue-representations
   quote: >
     Proceedings of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), Springer, 2021.
