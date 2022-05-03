@@ -86,6 +86,7 @@
 - layout: top-middle
   name: "Miscellaneous"
   description: | # this will include new lines to allow paragraphs
+    - **May, 2022:** Gave a talk at the MELBA symposium on [PathologyGAN](https://www.melba-journal.org/article/21657).
     - **June - September, 2021:** Worked as an AI research intern at [Arabesque AI](https://www.arabesque.com/ai/ai-research/) on time-series GANs.
     - **June, 2020:** Gave a talk at late breaking research [RECOMB-Computational Cancer Biology 2020](https://www.recomb2020.org/recomb-ccb) on 'Learning a low dimensional manifold of real cancer tissue with PathologyGAN': [Slides](https://drive.google.com/file/d/1mEEPbsyi2l-UxNKWfq79sgmQLdkgCHo4/view?usp=sharing)
     - **March, 2020:** Gave a lecture at the 'Deep Learning' course of [MSc in Data Science](https://www.gla.ac.uk/postgraduate/taught/datascience/), introducing Generative Adversarial Networks (GANs): [Slides](https://drive.google.com/open?id=1RSXm8G55yfUdW70SRW5iZ7MlKGRWjhDx)
