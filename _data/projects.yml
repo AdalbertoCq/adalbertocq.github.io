@@ -3,7 +3,7 @@
   name: "Publications"
 
 - layout: top-middle
-  name: "'Self-supervised learning unveils morphological clusters behind lung cancer types and prognosis' Adalberto Claudio Quiros+, Nicolas Coudray+, Anna Yeaton, Xinyu Yang, Luis Chiriboga, Afreen Karimkhan, Navneet Narula, Harvey Pass, Andre L. Moreira, John Le Quesne*, Aristotelis Tsirigos*, and Ke Yuan*. 2022."
+  name: "'Self-supervised learning unveils morphological clusters behind lung cancer types and prognosis' Adalberto Claudio Quiros<sup>+</sup>, Nicolas Coudray<sup>+</sup>, Anna Yeaton, Xinyu Yang, Luis Chiriboga, Afreen Karimkhan, Navneet Narula, Harvey Pass, Andre L. Moreira, John Le Quesne*, Aristotelis Tsirigos*, and Ke Yuan*. 2022."
 #  link: http://arxiv.org/abs/2108.02223
   github: AdalbertoCq/Phenotype-Representation-Learning
   quote: >
