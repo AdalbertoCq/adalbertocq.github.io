@@ -7,7 +7,7 @@
 #  link: http://arxiv.org/abs/2108.02223
   github: AdalbertoCq/Phenotype-Representation-Learning
   quote: >
-    ArXiv, 2022.
+    ArXiv.
   description: | # this will include new lines to allow paragraphs {: width="180" height="180"}
     **Abstract:** Histopathological images of tumors contain abundant information about how tumors grow and how they interact with their micro-environment. Characterizing and improving our understanding of phenotypes could reveal factors related to tumor progression and their underpinning biological processes, ultimately improving diagnosis and treatment. 
     In recent years, the field of histological deep learning applications has seen great progress, yet most of these applications focus on a supervised approach, relating tissue and associated sample annotations. Supervised approaches have their impact limited by two factors. Firstly, high-quality labels are expensive in time and effort, which makes them not easily scalable. 
