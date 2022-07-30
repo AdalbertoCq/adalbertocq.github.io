@@ -4,8 +4,8 @@ repository: AdalbertoCq/adalbertocq.github.io
 
 # Personal info
 name: "Adalberto Claudio Quiros"
-title: "PhD Candidate at University of Glasgow"
-email: "a.claudio-quiros.1@research.gla.ac.uk"
+title: "Research Fellow at Trinity College Dublin"
+email: "aclaudioquiros@gmail.com"
 # phone: "+44 7305 238105"
 # website: Your website (eg. https://google.com)(optional)
 
@@ -45,11 +45,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Adal.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a fourth year PhD student advised by [Ke Yuan](https://scholar.google.co.uk/citations?user=PIQ_ZhUAAAAJ&hl=en) at the University of Glasgow, Computing Science department. 
-
-  I'm interested in representation learning (unsupervised and self-supervised), interpretability of machine learning models, and the intersection of machine learning with social and political science. My PhD research focuses on applying generative and self-supervised models to histopathology and how these models can help to better understand cancer tissue.
-
-  Before starting the PhD, I worked in the semiconductor industry as a SoC Design engineer in the [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) field at Altera Coporation and Intel Corporation in San Jose, CA. I received an M.S. in Electrical Engineering at the IIT in Chicago, and M.S. and B.S. degrees in Telecommunications Engineering at ETSIT-UPM in Madrid.
+  I'm a research fellow in machine learning and political science at the [PaCE project](https://conflictlab.github.io/) at Trinity College Dublin. I'm interested in representation learning (unsupervised and self-supervised), interpretability of machine learning models, and the intersection of machine learning with social and political science. 
+  
+  I did my PhD advised by [Ke Yuan](https://scholar.google.co.uk/citations?user=PIQ_ZhUAAAAJ&hl=en) at the University of Glasgow, Computing Science department (still to be defended). The PhD research focused on applying generative and self-supervised models to histopathology and how these models can help to better understand cancer tissue.
+  
+  Before starting the PhD, I worked in the semiconductor industry as a SoC Design engineer in the [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) field at Altera Corporation and Intel Corporation in San Jose, CA. I received an M.S. in Electrical Engineering at the IIT in Chicago, and M.S. and B.S. degrees in Telecommunications Engineering at ETSIT-UPM in Madrid.
   
 # Projects Section
 projects_title: "Research Experience" #(Use this to override about projects section title)
