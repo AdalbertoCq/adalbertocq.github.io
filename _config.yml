@@ -4,7 +4,7 @@ repository: AdalbertoCq/adalbertocq.github.io
 
 # Personal info
 name: "Adalberto Claudio Quiros"
-title: "Research Fellow at Trinity College Dublin"
+# title: "Research Fellow at Trinity College Dublin"
 email: "aclaudioquiros@gmail.com"
 # phone: "+44 7305 238105"
 # website: Your website (eg. https://google.com)(optional)
@@ -45,7 +45,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Adal.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a research fellow in machine learning and political science at the [PaCE project](https://conflictlab.github.io/) at Trinity College Dublin. I'm interested in representation learning (unsupervised and self-supervised), interpretability of machine learning models, and the intersection of machine learning with social and political science. 
+  I'm a machine learning researcher interested in representation learning (unsupervised and self-supervised), interpretability of machine learning models, and the intersection of machine learning with social and political science. 
   
   I did my PhD advised by [Ke Yuan](https://scholar.google.co.uk/citations?user=PIQ_ZhUAAAAJ&hl=en) at the University of Glasgow, Computing Science department (still to be defended). 
   The PhD research focused on unsupervised representation learning of cancer tissue images by applying generative and self-supervised models.
