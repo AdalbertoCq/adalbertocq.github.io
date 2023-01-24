@@ -47,8 +47,8 @@ about_profile_image: images/Adal.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I'm a machine learning researcher interested in representation learning (unsupervised and self-supervised), interpretability of machine learning models, and the intersection of machine learning with social and political science. 
   
-  I did my PhD advised by [Ke Yuan](https://scholar.google.co.uk/citations?user=PIQ_ZhUAAAAJ&hl=en) at the University of Glasgow, Computing Science department (still to be defended). 
-  The PhD research focused on unsupervised representation learning of cancer tissue images by applying generative and self-supervised models.
+  I did my PhD advised by [Ke Yuan](https://scholar.google.co.uk/citations?user=PIQ_ZhUAAAAJ&hl=en) at the University of Glasgow, Computing Science department. 
+  The [PhD research](https://theses.gla.ac.uk/83374/) focused on unsupervised representation learning of cancer tissue images by applying generative and self-supervised models.
   
   Before starting the PhD, I worked in the semiconductor industry as a SoC Design engineer in the [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) field at Altera Corporation and Intel Corporation in San Jose, CA. I received an M.S. in Electrical Engineering at the IIT in Chicago, and M.S. and B.S. degrees in Telecommunications Engineering at ETSIT-UPM in Madrid.
   
