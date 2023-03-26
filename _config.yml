@@ -4,7 +4,7 @@ repository: AdalbertoCq/adalbertocq.github.io
 
 # Personal info
 name: "Adalberto Claudio Quiros"
-# title: "Research Fellow at Trinity College Dublin"
+title: "Postdoctoral Research Associate at University of Glasgow"
 email: "aclaudioquiros@gmail.com"
 # phone: "+44 7305 238105"
 # website: Your website (eg. https://google.com)(optional)
@@ -30,7 +30,7 @@ orcid_username: 0000-0003-4804-0741
 additional_links:
 - title: Curriculum Vitae
   icon: fas fa-address-card
-  url: https://drive.google.com/file/d/1_rIkdeboTAt0TS-dKwhMRRndmcKniuNc/view?usp=share_link
+  url: https://drive.google.com/file/d/1iqSEjp8t3HjN_LmD_6T36uwH--k-BRgS/view?usp=share_link
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,7 +45,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Adal.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a machine learning researcher interested in representation learning (unsupervised and self-supervised), interpretability of machine learning models, and the intersection of machine learning with social and political science. 
+  I'm a machine learning researcher interested in representation learning (generative and self-supervised), interpretability of machine learning models, and the intersection of machine learning with social and political science. 
   
   I did my PhD advised by [Ke Yuan](https://scholar.google.co.uk/citations?user=PIQ_ZhUAAAAJ&hl=en) at the University of Glasgow, Computing Science department. 
   The [PhD research](https://theses.gla.ac.uk/83374/) focused on unsupervised representation learning of cancer tissue images by applying generative and self-supervised models.
