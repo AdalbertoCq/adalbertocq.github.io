@@ -15,6 +15,7 @@
     We then demonstrate that these properties are maintained in a multi-cancer study. These results show the clusters represent recurrent host responses and modes of tumor growth emerging under natural selection.
 
     ![hand](./images/publications/prl/framework_methodology.jpg){: width="45%" height="45%" style="display: block; margin: 0 auto"}
+    ![hand](https://github.com/AdalbertoCq/Histomorphological-Phenotype-Learning/blob/master/demos/HPL_visualizer_mutlticancer.gif){: width="45%" height="45%" style="display: block; margin: 0 auto"}
 
 # Project template https://2020.midl.io/papers/quiros20.html
 - layout: top-middle
