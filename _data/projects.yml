@@ -14,8 +14,14 @@
     Tiles are grouped into morphologically similar clusters which constitute a library of histomorphological phenotypes, revealing trajectories from benign to malignant tissue via inflammatory and reactive phenotypes. These clusters have distinct features which can be identified using orthogonal methods, linking histologic, molecular and clinical phenotypes. Applied to lung cancer tissues, we show that they align closely with patient survival, with histopathologically recognised tumor types and growth patterns, and with transcriptomic measures of immunophenotype. 
     We then demonstrate that these properties are maintained in a multi-cancer study. These results show the clusters represent recurrent host responses and modes of tumor growth emerging under natural selection.
 
-    ![hand](./images/publications/prl/framework_methodology.jpg){: width="35%" height="35%" style="display: block; margin: 0 auto"}
-    ![hand](./images/publications/prl/HPL_visualizer_mutlticancer.gif){: width="45%" height="45%" style="display: block; margin: 0 auto"}
+    # ![hand](./images/publications/prl/framework_methodology.jpg){: width="25%" height="25%" style="display: block; margin: 0 auto"}
+    # ![hand](./images/publications/prl/HPL_visualizer_mutlticancer.gif){: width="45%" height="45%" style="display: block; margin: 0 auto"}
+
+    <figure markdown>
+      ![hand](./images/publications/prl/framework_methodology.jpg){: width="25%" height="25%" style="display: block; margin: 0 auto"}
+      ![hand](./images/publications/prl/HPL_visualizer_mutlticancer.gif){: width="45%" height="45%" style="display: block; margin: 0 auto"}
+      <figcaption>Partners</figcaption>
+    </figure>
 
 # Project template https://2020.midl.io/papers/quiros20.html
 - layout: top-middle
