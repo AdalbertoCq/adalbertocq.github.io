@@ -46,7 +46,7 @@ additional_links:
 # Here I post previous text: I'm a machine learning researcher interested in representation learning (generative and self-supervised), interpretability of machine learning models, and the intersection of machine learning with social and political science. 
 about_profile_image: images/Adal.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a machine learning researcher interested in representation learning (generative and self-supervised), interpretability of machine learning models, and the intersection of machine learning with social and political science. 
+  I'm a machine learning researcher interested in representation learning (generative and self-supervised) and interpretability of machine learning models. 
   
   I did my PhD advised by [Ke Yuan](https://scholar.google.co.uk/citations?user=PIQ_ZhUAAAAJ&hl=en) at the University of Glasgow, Computing Science department. 
   The [PhD research](https://theses.gla.ac.uk/83374/) focused on unsupervised representation learning of cancer tissue images by applying generative and self-supervised models.
