@@ -7,7 +7,7 @@
   link: https://arxiv.org/abs/2205.01931
   github: AdalbertoCq/Histomorphological-Phenotype-Learning
   quote: >
-    ArXiv.
+    Nature Communications 2024
   description: | # this will include new lines to allow paragraphs {: width="180" height="180"}
     **Abstract:** Definitive cancer diagnosis and management depend upon the extraction of information from microscopy images by pathologists. These images contain complex information requiring time-consuming expert human interpretation that is prone to human bias. 
     Supervised deep learning approaches have proven powerful for classification tasks, but they are inherently limited by the cost and quality of annotations used for training these models. To address this limitation of supervised methods, we developed Histomorphological Phenotype Learning (HPL), a fully unsupervised methodology that requires no expert labels or annotations and operates via the automatic discovery of discriminatory image features in small image tiles. 
