@@ -3,11 +3,11 @@
   name: "Publications"
 
 - layout: top-middle
-  name: "'Mapping the landscape of histomorphological cancer phenotypes using self-supervised learning on unlabeled, unannotated pathology slides' Adalberto Claudio Quiros<sup>+</sup>, Nicolas Coudray<sup>+</sup>, Anna Yeaton, Xinyu Yang, Luis Chiriboga, Afreen Karimkhan, Navneet Narula, Harvey Pass, Andre L. Moreira, John Le Quesne<sup>*</sup>, Aristotelis Tsirigos<sup>*</sup>, and Ke Yuan<sup>*</sup>. 2023."
+  name: "'Mapping the landscape of histomorphological cancer phenotypes using self-supervised learning on unlabeled, unannotated pathology slides' Adalberto Claudio Quiros<sup>+</sup>, Nicolas Coudray<sup>+</sup>, Anna Yeaton, Xinyu Yang, Luis Chiriboga, Afreen Karimkhan, Navneet Narula, Harvey Pass, Andre L. Moreira, John Le Quesne<sup>*</sup>, Aristotelis Tsirigos<sup>*</sup>, and Ke Yuan<sup>*</sup>. 2024."
   link: https://arxiv.org/abs/2205.01931
   github: AdalbertoCq/Histomorphological-Phenotype-Learning
   quote: >
-    Nature Communications 2024
+    Nature Communications, 2024.
   description: | # this will include new lines to allow paragraphs {: width="180" height="180"}
     **Abstract:** Definitive cancer diagnosis and management depend upon the extraction of information from microscopy images by pathologists. These images contain complex information requiring time-consuming expert human interpretation that is prone to human bias. 
     Supervised deep learning approaches have proven powerful for classification tasks, but they are inherently limited by the cost and quality of annotations used for training these models. To address this limitation of supervised methods, we developed Histomorphological Phenotype Learning (HPL), a fully unsupervised methodology that requires no expert labels or annotations and operates via the automatic discovery of discriminatory image features in small image tiles. 
@@ -41,7 +41,7 @@
   link: https://www.melba-journal.org/article/21657
   github: AdalbertoCq/Pathology-GAN
   quote: >
-    Proceedings of the Third Conference on Medical Imaging with Deep Learning, PMLR, 2020.<br/> Journal of Machine Learning for Biomedical Imaging. 2021:4. pp 1-48. Special Issue: Medical Imaging with Deep Learning (MIDL) 2020
+    Proceedings of the Third Conference on Medical Imaging with Deep Learning, PMLR, 2020.<br/> Journal of Machine Learning for Biomedical Imaging. 2021:4. pp 1-48. Special Issue: Medical Imaging with Deep Learning (MIDL) 2020.
   description: | # this will include new lines to allow paragraphs {: width="180" height="180"}
     ![tran](./images/publications/pathologygan/linear_grid.gif){: width="180" height="180" style="float:left; padding:16px"} **Abstract:** Histopathological images of tumors contain abundant information about how tumors grow and how they interact with their micro-environment. 
     Better understanding of tissue phenotypes in these images could reveal novel determinants of pathological processes underlying cancer, and in turn improve diagnosis and treatment options. Advances of Deep learning makes it ideal to achieve those goals, however, its application is limited by the cost of high quality labels from patients data. Unsupervised learning, in particular, deep generative models with representation learning properties provides an alternative path to further understand cancer tissue phenotypes, capturing tissue morphologies. 
@@ -54,7 +54,7 @@
   name: "'DNNLibGen : Deep Neural Network Based Fast Library Generator' Eunice Naswali, Adalberto Claudio Quiros, Pravin Chandran. 2019."
   link: https://ieeexplore.ieee.org/document/8965191
   quote: >
-    26th IEEE International Conference on Electronics Circuits and Systems
+    26th IEEE International Conference on Electronics Circuits and Systems.
   description: | # this will include new lines to allow paragraphs
     ![tran](./images/publications/dnnlibgen/DNNLibGen.png){: width="35%" height="35%" style="float:left; padding:16px"} **Abstract:** We propose a new modeling methodology using deep learning techniques for generating timing 
     models for Static Timing Analysis (STA). Current device behavior is non-linear, non-monotonic and exhibits high sensitivity to (Process Voltage Temperature) PVT variation which imposes a 
