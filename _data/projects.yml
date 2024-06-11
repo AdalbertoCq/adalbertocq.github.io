@@ -4,7 +4,7 @@
 
 - layout: top-middle
   name: "'Mapping the landscape of histomorphological cancer phenotypes using self-supervised learning on unlabeled, unannotated pathology slides' Adalberto Claudio Quiros<sup>+</sup>, Nicolas Coudray<sup>+</sup>, Anna Yeaton, Xinyu Yang, Luis Chiriboga, Afreen Karimkhan, Navneet Narula, Harvey Pass, Andre L. Moreira, John Le Quesne<sup>*</sup>, Aristotelis Tsirigos<sup>*</sup>, and Ke Yuan<sup>*</sup>. 2024."
-  link: https://www.nature.com/articles/s41467-024-48666-7#citeas
+  link: https://www.nature.com/articles/s41467-024-48666-7
   github: AdalbertoCq/Histomorphological-Phenotype-Learning
   quote: >
     Nature Communications, 2024.
